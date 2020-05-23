@@ -1,6 +1,6 @@
-package de.xckk.demo.immutablesmongo.repository;
+package io.github.joke.example.immutablesmongo.repository;
 
-import de.xckk.demo.immutablesmongo.repository.model.PersonImmutable;
+import io.github.joke.example.immutablesmongo.repository.model.PersonImmutable;
 import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;
 import org.junit.jupiter.api.Order;
 import org.junit.jupiter.api.Test;

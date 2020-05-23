@@ -1,4 +1,4 @@
-package de.xckk.demo.immutablesmongo;
+package io.github.joke.example.immutablesmongo;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

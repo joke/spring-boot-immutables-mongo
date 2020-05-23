@@ -3,7 +3,7 @@ plugins {
     id 'java'
 }
 
-group = 'de.xckk.demo'
+group = 'io.github.joke.demo'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '14'
 

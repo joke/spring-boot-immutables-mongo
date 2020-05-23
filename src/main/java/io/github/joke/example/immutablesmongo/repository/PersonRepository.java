@@ -1,6 +1,6 @@
-package de.xckk.demo.immutablesmongo.repository;
+package io.github.joke.example.immutablesmongo.repository;
 
-import de.xckk.demo.immutablesmongo.repository.model.Person;
+import io.github.joke.example.immutablesmongo.repository.model.Person;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.UUID;

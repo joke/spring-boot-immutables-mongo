@@ -1,4 +1,4 @@
-package de.xckk.demo.immutablesmongo.repository.model;
+package io.github.joke.example.immutablesmongo.repository.model;
 
 import org.immutables.annotate.InjectAnnotation;
 import org.immutables.value.Value;
